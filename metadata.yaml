@@ -1,4 +1,8 @@
 _repo: Thirteen-Stories_48510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cunninghame Graham, R. B. (Robert Bontine)
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/644
     wikipedia: http://en.wikipedia.org/wiki/Robert_Cunninghame-Graham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48510#Thirteen-Stories
 gutenberg_issued: '2015-03-17'
 gutenberg_type: Text
 identifiers:
